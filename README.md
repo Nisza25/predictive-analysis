@@ -1,4 +1,4 @@
-## A simple ML project to build a wine classifier of top 10 wines
+## A simple ML project to build a wine classifier
 This project deals with predicting top 10 wines from a given data-set of shape(71322, 13) based on its description.
 
 ### Aim:
