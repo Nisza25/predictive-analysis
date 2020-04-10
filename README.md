@@ -4,6 +4,12 @@ This project deals with predicting top 10 wines from a given data-set of shape(7
 ### Aim:
 The aim of this project is to solely focus on the applications of 2 ML models
 
+### Pre-requisites to access all the files of this repository
+1. Operating System Windows/ios 
+2. Jupyter Notebook
+3. MS Excel
+
+
 ### What ML models are applied in this project?
 1. Naive Bayes Classifier
 2. Support Vector Classifier
